@@ -1,0 +1,24 @@
+{
+    "name": "the-dark-knight",
+    "displayName": "The Dark Knight",
+    "description": "A theme for a true batman lover!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Dark Knight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/The Dark Knight-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.71.0"
+    }
+}
