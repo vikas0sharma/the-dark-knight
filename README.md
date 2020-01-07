@@ -1,28 +1,49 @@
-# README
-## This is the README for your extension "the-dark-knight"
+# the-dark-knight
 
+Not the theme you deserve, but the one you need right now!!
 
+> I am vengeance!
+
+> I am the night!
+
+> I am Batman!
+
+Batman inspires so many people, always been my childhood hero I would not call him superhero because he is not, he is the one trying to right the wrong in the society without any superpower.
+
+> A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended
+
+I have created this theme dedicated to Batman.
+
+If you are a Batman fan like me then you definitely gonna like this theme.
+
+## Screen
+![screen](https://github.com/vikas0sharma/the-dark-knight/blob/master/screens/screens.png)
 
 ## Enable Wallpaper and glow
 
-Install this excellent plugin that allows you to load custom CSS and JS from the VS Marketplace. Please carefully read the ReadMe regarding permission for that extension before continuing with this installation.
+Install [this](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) excellent plugin that allows you to load custom CSS and JS from the VS Marketplace. Please carefully read the ReadMe regarding permission for that extension before continuing with this installation.
 
-Locate the-dark-knight.css either in this extension's VS code install directory, or directly from the github repo.
+Locate the-dark-knight.css either in this extension's VS code install directory, or directly from the [github repo](https://github.com/vikas0sharma/the-dark-knight/blob/master/the-dark-knight.css).
 
 Copy your chosen CSS file to a location on your machine, such as your user folder. Copy the file path and add it to your VS code settings.json. On Mac it might look something like the snippet below:
 
+```javascript
 {
   "vscode_custom_css.imports": [
     "file:///Users/{your username}/the-dark-knight.css"
     ]
 }
+```
 Windows might resemble:
 
+```javascript
 {
   "vscode_custom_css.imports": [
     "file:///C:/Users/{your username}/the-dark-knight.css"
     ]
 }
+```
+
 Important: Make sure you include the file protocol in the path i.e. file://
 
 Open your command palette with Ctrl + Shift + P or Shift + ⌘ + P and choose "Enable custom CSS and JS". It will prompt you to restart, and when you do the lights should be on :)
