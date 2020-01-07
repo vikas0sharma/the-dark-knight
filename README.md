@@ -17,7 +17,7 @@ I have created this theme dedicated to Batman.
 If you are a Batman fan like me then you definitely gonna like this theme.
 
 ## Screen
-![screen](https://github.com/vikas0sharma/the-dark-knight/blob/master/screens/screens.png)
+![screen](https://raw.githubusercontent.com/vikas0sharma/the-dark-knight/master/screens/screens.png)
 
 ## Enable Wallpaper and glow
 
