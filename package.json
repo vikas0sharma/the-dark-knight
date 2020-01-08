@@ -3,6 +3,12 @@
     "displayName": "The Dark Knight",
     "description": "A theme for a true batman lover!",
     "version": "0.0.1",
+    "publisher": "VikasSharma",
+    "author": {
+        "name": "vikas sharma",
+        "email": "mailbox.viksharma@gmail.com",
+        "url": "https://github.com/vikas0sharma/"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -20,5 +26,10 @@
     },
     "dependencies": {
         "vsce": "^1.71.0"
+    },
+    "icon": "screens/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vikas0sharma/the-dark-knight"
     }
 }
