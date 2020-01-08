@@ -31,7 +31,8 @@ Copy your chosen CSS file to a location on your machine, such as your user folde
 {
   "vscode_custom_css.imports": [
     "file:///Users/{your username}/the-dark-knight.css"
-    ]
+    ],
+    "vscode_custom_css.policy": true,
 }
 ```
 Windows might resemble:
@@ -40,7 +41,8 @@ Windows might resemble:
 {
   "vscode_custom_css.imports": [
     "file:///C:/Users/{your username}/the-dark-knight.css"
-    ]
+    ],
+    "vscode_custom_css.policy": true,
 }
 ```
 
