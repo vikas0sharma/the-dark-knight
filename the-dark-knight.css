@@ -4,6 +4,9 @@
     text-shadow: 0 0 2px #001716, 0 0 3px #03edf975, 0 0 5px #03edf975, 0 0 8px #03edf975;
   }
   
+.statusbar {
+	background-color: black !important;
+  }
   
   .monaco-editor .margin, .monaco-editor .inputarea.ime-input {
     background: transparent;
