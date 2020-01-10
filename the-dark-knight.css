@@ -12,6 +12,9 @@
     background: transparent;
   }
   
+ .monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input { 
+    background-color: transparent !important; 
+  }
   
   .monaco-editor-background{
       background-color: transparent !important;
