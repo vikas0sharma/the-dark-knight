@@ -1,6 +1,9 @@
 # the-dark-knight
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/VikasSharma.the-dark-knight?color=blue)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/VikasSharma.the-dark-knight)
+![GitHub repo size](https://img.shields.io/github/repo-size/vikas0sharma/the-dark-knight?color=purple)
 
-Not the theme you deserve, but the one you need right now!!
+**Not the theme you deserve, but the one you need right now!!**
 
 > I am vengeance!
 
