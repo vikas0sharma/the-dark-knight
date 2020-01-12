@@ -1,4 +1,4 @@
-# the-dark-knight
+# The Dark Knight
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/VikasSharma.the-dark-knight?color=blue)](https://marketplace.visualstudio.com/items?itemName=VikasSharma.the-dark-knight)
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/VikasSharma.the-dark-knight)](https://marketplace.visualstudio.com/items?itemName=VikasSharma.the-dark-knight)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vikas0sharma/the-dark-knight?color=purple)
