@@ -120,10 +120,34 @@
 			<string>keyword</string>
 			<key>settings</key>
 			<dict>
+                <key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#AE81FF</string>
 			</dict>
 		</dict>
+        <dict>
+            <key>name</key>
+            <string>[VSCODE-CUSTOM] JS/TS Import</string>
+            <key>scope</key>
+            <string>constant.language.import-export-all.js,constant.language.import-export-all.ts,constant.language.import-export-all.jsx,constant.language.import-export-all.tsx</string>
+            <key>settings</key>
+            <dict>
+              <key>foreground</key>
+              <string>#56B6C2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Variable Interpolation</string>
+            <key>scope</key>
+            <string>variable.interpolation</string>
+            <key>settings</key>
+            <dict>
+              <key>foreground</key>
+              <string>#BE5046</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
