@@ -58,3 +58,5 @@ At this point, VS Code may pop up a message to say that it is corrupted, this is
 NOTE: Every time you update VS code, you will need to repeat this step to re-enable custom CSS and JS. Similarly, when the theme updates, you will need to copy the updated css to your chosen location.
 
 This is less than ideal, but until VS code add the option to use custom CSS natively, it's unfortunately the only option.
+
+*Note* you can also checkout a different flavour of the theme [Dark Knight Rises](https://marketplace.visualstudio.com/items?itemName=VikasSharma.dark-knight-rises).
