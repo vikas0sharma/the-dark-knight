@@ -59,4 +59,4 @@ NOTE: Every time you update VS code, you will need to repeat this step to re-ena
 
 This is less than ideal, but until VS code add the option to use custom CSS natively, it's unfortunately the only option.
 
-**Note** you can also checkout a different flavour of the theme [Dark Knight Rises](https://marketplace.visualstudio.com/items?itemName=VikasSharma.dark-knight-rises).
+**Note:** You can also checkout a different flavour of the theme [Dark Knight Rises](https://marketplace.visualstudio.com/items?itemName=VikasSharma.dark-knight-rises).
